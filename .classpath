@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="Course/Comparable/src"/>
+	<classpathentry kind="src" path="Course/Course_Composicao01/src"/>
+	<classpathentry kind="src" path="Course/Course_Composicao02/src"/>
+	<classpathentry kind="src" path="Course/default_methods/src"/>
+	<classpathentry kind="src" path="Course/heranca/src"/>
+	<classpathentry kind="src" path="Course/intefaces/src"/>
+	<classpathentry kind="src" path="Estrutura_Dados_Java/src"/>
+	<classpathentry kind="output" path="Estrutura_Dados_Java/build/classes"/>
+</classpath>
